@@ -1,0 +1,1 @@
+LocationSpoofer/Classes/Private/CLLocationCoordinate2D+LOSPAdditions.h
